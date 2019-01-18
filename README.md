@@ -1,2 +1,2 @@
-# Automated-traffic-Lightining-System
-As my mini project I made a traffic lighting system that can automatically control the traffic flow based on the intensity of light and congestion. 
+# AUTOMATED-TRAFFIC-MANAGEMENT-SYSTEM 
+As my mini project I made a traffic lighting system that can automatically control the traffic flow based traffic congestion.Here I have written the code for 2 roads connecting traffic point. Same process can applied on juction of greater no of roads to. I have defined different green and red light for the two roads. I made this using two IR sensors and 4 leds. To know the process check the code. Hope commented lines will help you to understand the concept. 
